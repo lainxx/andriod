@@ -1,0 +1,5 @@
+组员包括：张亚军，刘仪兵，郭朴宸，韩鑫
+documents文件夹下是项目的相关文档
+web文件夹下是使用python flask实现的后台接口
+MyCamera文件夹下是前台代码
+presenation文件夹下是项目的一些功能截图

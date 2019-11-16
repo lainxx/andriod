@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CircleMenuView</string>
+    <string-array name="te">
+        <item>人脸注册</item>
+        <item>人脸搜索</item>
+        <item>人脸检测</item>
+        <item>人脸对比</item>
+
+
+    </string-array>
+    <string-array name="ic">
+        <item>@drawable/register</item>
+        <item>@drawable/search</item>
+        <item>@drawable/detect</item>
+        <item>@drawable/photo2</item>
+
+
+    </string-array>
+</resources>
